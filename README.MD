@@ -15,8 +15,6 @@ Don't hesitate to contact me if you meet any problems when using this code.
 
 Author: Xiaoning Liu                                                            
 Email: liuxiaoning2016@sina.com
-Github: https://github.com/hangxiaotian
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Last update: 7-Nov-2019
