@@ -11,7 +11,8 @@ Please refer to the above paper if you use this code. Thank you.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Don¡¯t hesitate to contact me if you meet any problems when using this code.
+Don't hesitate to contact me if you meet any problems when using this code.
+
 Author: Xiaoning Liu                                                            
 Email: liuxiaoning2016@sina.com
 Github: https://github.com/hangxiaotian
