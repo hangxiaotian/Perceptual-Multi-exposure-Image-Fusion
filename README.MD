@@ -1,12 +1,12 @@
 # This package contains the MATLAB code which is associated with the following Tech report:
 
-"Perceptual Multi-exposure Image Fusion". 
+"Perceptual Multi-Exposure Image Fusion". 
 
 Edited by Xiaoning Liu.   
 
 Usage of this code is free for research purposes only. 
 
-Please refer to the above paper if you use this code. Thank you.
+Please refer to the above tech report if you use this code. Thank you.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
