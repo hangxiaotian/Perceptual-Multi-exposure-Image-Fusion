@@ -1,6 +1,6 @@
-# This package contains the MATLAB code which is associated with the following paper:
+# This package contains the MATLAB code which is associated with the following Tech report:
 
-Xiaoning Liu, Yu Liu, Ce Zhu* "Perceptual Multi-exposure Image Fusion". 
+"Perceptual Multi-exposure Image Fusion". 
 This manuscript submitted to IEEE Transactions on Multimedia, Nov. 2019
 
 Edited by Xiaoning Liu.   
