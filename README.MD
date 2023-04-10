@@ -1,6 +1,6 @@
 # This package contains the MATLAB code which is associated with the following Tech report:
 
-"Perceptual Multi-Exposure Image Fusion". 
+"Perceptual Multi-Exposure Fusion". 
 
 Edited by Xiaoning Liu.   
 
