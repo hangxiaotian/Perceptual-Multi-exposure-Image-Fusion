@@ -3,15 +3,20 @@
 **Perceptual Multi-Exposure Fusion**
 [[Arxiv]](https://arxiv.org/abs/2210.09604v1)
 
-Edited by Xiaoning Liu.   
+If you refer to the code, please cite the relevant manuscript.
+## References
+----------
+```BibTex
+@article{liu2022perceptual,
+  title={Perceptual multi-exposure fusion},
+  author={Liu, Xiaoning},
+  journal={arXiv preprint arXiv:2210.09604v1},
+  year={2022}
+}
+```
 
-Usage of this code is free for research purposes only. 
-
-Please refer to the above tech report if you use this code. Thank you.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Don't hesitate to contact me if you meet any problems when using this code.
 
 Author: Xiaoning Liu                                                            
 Email: liuxiaoning2016@sina.com
