@@ -1,6 +1,7 @@
 # This package contains the MATLAB code which is associated with the following Tech report:
-
-"Perceptual Multi-Exposure Fusion". 
+# PMEF
+**Perceptual Multi-Exposure Fusion**
+[[Arxiv]](https://arxiv.org/abs/2210.09604v1)
 
 Edited by Xiaoning Liu.   
 
@@ -15,4 +16,4 @@ Don't hesitate to contact me if you meet any problems when using this code.
 Author: Xiaoning Liu                                                            
 Email: liuxiaoning2016@sina.com
 
-Last update: 7-Nov-2019
+Last update: 5-Mar-2024
